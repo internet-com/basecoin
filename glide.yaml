@@ -17,7 +17,7 @@ import:
   subpackages:
   - cmd
   - keys
-- package: github.com/tendermint/go-wire
+- package: github.com/internet-com/go-wire
   version: ~0.6.2
   subpackages:
   - data

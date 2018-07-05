@@ -8,7 +8,7 @@ import (
 
 	"github.com/tendermint/basecoin/types"
 	crypto "github.com/tendermint/go-crypto"
-	"github.com/tendermint/go-wire/data"
+	"github.com/internet-com/go-wire/data"
 	cmn "github.com/tendermint/tmlibs/common"
 )
 

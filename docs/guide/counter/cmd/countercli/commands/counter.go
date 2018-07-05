@@ -4,7 +4,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	wire "github.com/tendermint/go-wire"
+	wire "github.com/internet-com/go-wire"
 	txcmd "github.com/tendermint/light-client/commands/txs"
 
 	bcmd "github.com/tendermint/basecoin/cmd/basecli/commands"

@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	abci "github.com/tendermint/abci/types"
-	"github.com/tendermint/go-wire"
+	"github.com/internet-com/go-wire"
 	merkle "github.com/tendermint/merkleeyes/iavl"
 	cmn "github.com/tendermint/tmlibs/common"
 

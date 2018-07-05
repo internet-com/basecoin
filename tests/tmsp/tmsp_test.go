@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/tendermint/basecoin/app"
 	"github.com/tendermint/basecoin/types"
-	wire "github.com/tendermint/go-wire"
+	wire "github.com/internet-com/go-wire"
 	eyescli "github.com/tendermint/merkleeyes/client"
 	cmn "github.com/tendermint/tmlibs/common"
 	"github.com/tendermint/tmlibs/log"

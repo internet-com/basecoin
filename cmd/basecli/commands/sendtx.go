@@ -5,7 +5,7 @@ import (
 	bc "github.com/tendermint/basecoin/types"
 	crypto "github.com/tendermint/go-crypto"
 	keys "github.com/tendermint/go-crypto/keys"
-	wire "github.com/tendermint/go-wire"
+	wire "github.com/internet-com/go-wire"
 )
 
 type SendTx struct {

@@ -126,7 +126,7 @@ imports:
   - keys/server/types
   - keys/storage/filestorage
   - keys/wordlist
-- name: github.com/tendermint/go-wire
+- name: github.com/internet-com/go-wire
   version: 5f88da3dbc1a72844e6dfaf274ce87f851d488eb
   subpackages:
   - data

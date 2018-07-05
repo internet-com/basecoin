@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	abci "github.com/tendermint/abci/types"
-	wire "github.com/tendermint/go-wire"
+	wire "github.com/internet-com/go-wire"
 	eyes "github.com/tendermint/merkleeyes/client"
 	cmn "github.com/tendermint/tmlibs/common"
 	"github.com/tendermint/tmlibs/log"

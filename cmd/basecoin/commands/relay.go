@@ -13,7 +13,7 @@ import (
 	// 	"github.com/tendermint/tmlibs/cli"
 	// 	"github.com/tendermint/tmlibs/log"
 
-	"github.com/tendermint/go-wire"
+	"github.com/internet-com/go-wire"
 	"github.com/tendermint/merkleeyes/iavl"
 	cmn "github.com/tendermint/tmlibs/common"
 

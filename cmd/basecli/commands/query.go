@@ -4,7 +4,7 @@ import (
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 
-	wire "github.com/tendermint/go-wire"
+	wire "github.com/internet-com/go-wire"
 	lc "github.com/tendermint/light-client"
 	lcmd "github.com/tendermint/light-client/commands"
 	proofcmd "github.com/tendermint/light-client/commands/proofs"

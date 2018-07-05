@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/tendermint/go-crypto"
-	"github.com/tendermint/go-wire"
+	"github.com/internet-com/go-wire"
 )
 
 type Account struct {

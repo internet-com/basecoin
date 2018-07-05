@@ -5,7 +5,7 @@ import (
 
 	crypto "github.com/tendermint/go-crypto"
 	keys "github.com/tendermint/go-crypto/keys"
-	wire "github.com/tendermint/go-wire"
+	wire "github.com/internet-com/go-wire"
 
 	bc "github.com/tendermint/basecoin/types"
 )

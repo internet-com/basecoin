@@ -5,7 +5,7 @@ import (
 
 	abci "github.com/tendermint/abci/types"
 	"github.com/tendermint/basecoin/types"
-	"github.com/tendermint/go-wire"
+	"github.com/internet-com/go-wire"
 )
 
 type CounterPluginState struct {

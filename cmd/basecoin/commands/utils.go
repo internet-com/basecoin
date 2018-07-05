@@ -9,7 +9,7 @@ import (
 	"github.com/spf13/pflag"
 
 	abci "github.com/tendermint/abci/types"
-	wire "github.com/tendermint/go-wire"
+	wire "github.com/internet-com/go-wire"
 
 	"github.com/tendermint/basecoin/types"
 

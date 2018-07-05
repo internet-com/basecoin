@@ -12,7 +12,7 @@ import (
 
 	abci "github.com/tendermint/abci/types"
 	crypto "github.com/tendermint/go-crypto"
-	"github.com/tendermint/go-wire"
+	"github.com/internet-com/go-wire"
 	eyes "github.com/tendermint/merkleeyes/client"
 	"github.com/tendermint/merkleeyes/iavl"
 	cmn "github.com/tendermint/tmlibs/common"

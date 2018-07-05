@@ -9,7 +9,7 @@ import (
 	abci "github.com/tendermint/abci/types"
 	"github.com/tendermint/basecoin/app"
 	"github.com/tendermint/basecoin/types"
-	"github.com/tendermint/go-wire"
+	"github.com/internet-com/go-wire"
 	eyescli "github.com/tendermint/merkleeyes/client"
 )
 

@@ -5,7 +5,7 @@ package main
 import (
 	"fmt"
 	"github.com/tendermint/basecoin/tests"
-	"github.com/tendermint/go-wire"
+	"github.com/internet-com/go-wire"
 )
 
 /*
